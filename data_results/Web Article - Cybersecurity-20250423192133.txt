@@ -1,0 +1,35 @@
+--- Article 1 ---
+Title       : Promising Cybersecurity Stocks To Research - April 22nd
+Source      : lulegacy
+Published At: 2025-04-23T18:33:50+00:00
+URL         : https://www.marketbeat.com/instant-alerts/promising-cybersecurity-stocks-to-research-april-22nd-2025-04-22/
+Description : Alphabet, CrowdStrike, Palo Alto Networks, Dell Technologies, Fortinet, Motorola Solutions, and Emerson Electric are the seven Cybersecurity stocks to watch today, according to MarketBeat's stock screener tool. Cybersecurity stocks are shares of companies that develop and market technologies design
+
+--- Article 2 ---
+Title       : Not just any cyber incident…but an M&S cybersecurity incident
+Source      : techdigest
+Published At: 2025-04-23T15:04:09+00:00
+URL         : https://www.techdigest.tv/2025/04/not-just-any-cyber-incident-but-an-ms-cybersecurity-incident.html?utm_source=rss&utm_medium=rss&utm_campaign=not-just-any-cyber-incident-but-an-ms-cybersecurity-incident
+Description : M&S has issued an update to customers following a cyber attack which left UK shoppers unable to use contactless payments or click-and-collect services over the Bank Holiday weekend. In a [&#8230;]The post Not just any cyber incident&#8230;but an M&S cybersecurity incident appeared first on Tech Digest.Related posts:2023 was the worst year ever for online cyber attacks, report claims7 tips to avoid getting scammed on Black Friday and Cyber MondayUK Government introduces two codes of practice to enhance AI cybersecurity
+
+--- Article 3 ---
+Title       : Gavel to Gavel: New additions to Oklahoma’s Security Breach Notification Act may soon become law
+Source      : journalrecord
+Published At: 2025-04-23T14:25:05+00:00
+URL         : https://journalrecord.com/2025/04/23/gavel-to-gavel-new-additions-to-oklahomas-security-breach-notification-act-may-soon-become-law/
+Description : As cybersecurity attacks continue to rise, the Oklahoma Legislature is taking efforts to update old laws regarding notification of security breaches.The post Gavel to Gavel: New additions to Oklahoma’s Security Breach Notification Act may soon become law first appeared on The Journal Record.
+
+--- Article 4 ---
+Title       : Armis expands vulnerability exposure and assessment capabilities
+Source      : net-security
+Published At: 2025-04-23T13:10:06+00:00
+URL         : https://www.helpnetsecurity.com/2025/04/23/armis-vulnerability-intelligence-database/
+Description : Armis is expanding its vulnerability exposure and assessment capabilities with the free availability of the Armis Vulnerability Intelligence Database. The community-driven database integrates exploited vulnerabilities, emerging threats and AI-powered insights, providing the cybersecurity industry with the knowledge organizations need to better prioritize and mitigate threats in real time. The Armis Vulnerability Intelligence Database is powered by Armis Labs, Armis early warning capabilities and the Armis Asset Intelligence Engine. It also receives information from Armis Centrix &#8230; More &#...
+
+--- Article 5 ---
+Title       : Check Point Software's strong Q1 results aid cybersecurity stocks
+Source      : Seeking Alpha
+Published At: 2025-04-23T11:51:10+00:00
+URL         : https://seekingalpha.com/news/4433920-check-point-softwares-strong-q1-results-aid-cybersecurity-stocks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news
+Description : Check Point Software's strong Q1 results aid cybersecurity stocks
+
