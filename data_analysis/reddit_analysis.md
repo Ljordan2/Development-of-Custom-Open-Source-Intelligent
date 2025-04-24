@@ -25,9 +25,7 @@ This analysis focuses on the activity of commenters in the **Cybersecurity** sub
 ## Distribution of Comment Occurrences
 The following chart shows the distribution of comment occurrences for all commenters. As we can see, most commenters have few occurrences, but a few dominate the discussion with many more comments.
 
-![Comment Occurrences Distribution](link-to-your-chart-image.png)
-
-*Note: You can replace the chart image link with the actual chart file you generated.*
+![Comment Occurrences Distribution](/Users/lukejordan/Downloads/reddit.png)
 
 ---
 

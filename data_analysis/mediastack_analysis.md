@@ -15,15 +15,6 @@ This analysis includes **cybersecurity-related articles** retrieved from the **M
 
 ---
 
-## Articles Publication by Year
-The following chart displays the distribution of **cybersecurity articles** published over the years:
-
-![Cybersecurity Articles Published by Year](link-to-your-chart-image.png)
-
-*Note: Replace the chart image link with the actual chart image you generated.*
-
----
-
 ## Key Observations
 - The most prominent topics in the articles include **cybersecurity stocks** and **cybersecurity incidents**.
 - The **articles published in 2025** focus heavily on **industry updates** and **regulatory changes** in cybersecurity.

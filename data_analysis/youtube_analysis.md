@@ -25,9 +25,8 @@ This analysis focuses on YouTube video tags related to **cybersecurity**. We ret
 ## Distribution of Occurrences
 The following chart shows the distribution of occurrences for the top 10 most frequent keywords. It highlights the dominance of **cybersecurity** and related terms in the YouTube videos we analyzed.
 
-![Top 10 Keywords Distribution](link-to-your-chart-image.png)
+![Top 10 Keywords Distribution](/Users/lukejordan/Downloads/youtube.png)
 
-*Note: You can replace the chart image link with the actual image if you choose to save and upload it.*
 
 ---
 
