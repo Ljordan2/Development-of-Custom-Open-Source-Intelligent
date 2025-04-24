@@ -20,9 +20,7 @@ Users can filter results from each platform based on specific keywords, enabling
 - [Tech Stack](#-tech-stack)
 - [Installation](#-installation)
 - [Usage](#-usage)
-- [Project Structure](#-project-structure)
 - [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
@@ -52,6 +50,28 @@ Users can filter results from each platform based on specific keywords, enabling
 ### Prerequisites
 - Python 3.9+
 - `pip` (Python package manager)
+
+## Usage🧑‍💻 
+To run the application:
+
+python app.py
+
+The GUI will appear, allowing you to input a keyword and filter results from the four data sources (YouTube, Wikipedia, Reddit, MediaStack).
+
+## 🤝 Contributing
+We welcome contributions! To contribute:
+
+Fork the repository.
+
+Create a new branch (git checkout -b feature/your-feature).
+
+Make your changes and commit (git commit -am 'Add new feature').
+
+Push your changes (git push origin feature/your-feature).
+
+Open a Pull Request.
+
+Please make sure to follow the coding standards and add tests for new features.
 
 ### Clone the Repo & Install Dependencies
 ```bash
