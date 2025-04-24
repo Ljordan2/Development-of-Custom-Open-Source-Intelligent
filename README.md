@@ -28,8 +28,7 @@ Users can filter results from each platform based on specific keywords, enabling
 ✅ Pulls OSINT from trusted public data feeds  
 🔍 Keyword-based filtering for focused results  
 📚 Integrates 4 sources: YouTube, Wikipedia, Reddit, and MediaStack  
-🖥️ GUI for interactive, user-friendly experience  
-🧪 Tested and debugged for stability and reliability  
+🖥️ GUI for interactive, user-friendly experience   
 📊 Built-in tools for basic data analysis  
 
 ---
@@ -39,8 +38,6 @@ Users can filter results from each platform based on specific keywords, enabling
 - **Language**: Python 3.9+
 - **GUI Framework**: Tkinter
 - **Data Libraries**: Pandas, Requests
-- **Visualization**: Matplotlib, Seaborn (optional)
-- **Testing**: Pytest or UnitTest
 - **Version Control**: Git & GitHub
 
 ---
@@ -54,7 +51,7 @@ Users can filter results from each platform based on specific keywords, enabling
 ## Usage🧑‍💻 
 To run the application:
 
-python app.py
+python script_ui.py
 
 The GUI will appear, allowing you to input a keyword and filter results from the four data sources (YouTube, Wikipedia, Reddit, MediaStack).
 
