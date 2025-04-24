@@ -45,5 +45,5 @@ For more details, refer to the raw data in the CSV file or the Python script use
 ---
 
 ## Files
-- **Analysis CSV**: [Wikipedia - Computer Security Analysis Results](../data_results/Wikipedia%20-%20Computer%20security-20250423192208.csvWikipedia - Computer security-20250423192208.csv')
+- **Analysis CSV**: [Wikipedia - Computer Security Analysis Results](../data_results/Wikipedia%20-%20Computer%20security-20250423192208.csv)
 - **Script**: [Wikipedia Keyword Analysis Script](../src/wikipedia.py)

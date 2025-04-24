@@ -37,5 +37,5 @@ For more details, refer to the raw data in the CSV file.
 ---
 
 ## Files
-- **Analysis CSV**: [Reddit - Cybersecurity Commenters](../data_results/Reddit%20-%20cybersecurity-20250423192255.csvReddit - cybersecurity-20250423192255.csv')
+- **Analysis CSV**: [Reddit - Cybersecurity Commenters](../data_results/Reddit%20-%20cybersecurity-20250423192255.csv)
 - **Script**: [Reddit Data Analysis Scrip](../src/reddit.py)

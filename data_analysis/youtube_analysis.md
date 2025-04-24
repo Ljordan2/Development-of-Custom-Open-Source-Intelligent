@@ -45,5 +45,5 @@ For more details, refer to the raw data in the CSV file or the accompanying Pyth
 ---
 
 ## Files
-- **Analysis CSV**: [YouTube - Cybersecurity Analysis Results](../data_results/YouTube%20-%20Cybersecurity-20250423192101.csvYouTube - Cybersecurity-20250423192101.csv')
+- **Analysis CSV**: [YouTube - Cybersecurity Analysis Results](../data_results/YouTube%20-%20Cybersecurity-20250423192101.csv)
 - **Script**: [YouTube Tag Analysis Script](../src/youtube_tags.py)

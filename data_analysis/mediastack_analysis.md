@@ -29,5 +29,5 @@ For more details, refer to the raw data in the CSV file or the Python script use
 ---
 
 ## Files
-- **Analysis CSV**: [Cybersecurity Articles Analysis Results](../data_results/Web%20Article%20-%20Cybersecurity-20250423192133.txtWeb Article - Cybersecurity-20250423192133.txt')
+- **Analysis CSV**: [Cybersecurity Articles Analysis Results](../data_results/Web%20Article%20-%20Cybersecurity-20250423192133.txt)
 - **Script**: [Cybersecurity Article Fetching Script](../src/osint.py)
