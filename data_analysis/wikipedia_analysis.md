@@ -25,7 +25,7 @@ This analysis focuses on keywords related to **computer security** scraped from 
 ## Distribution of Keyword Occurrences
 The following chart shows the distribution of occurrences for the most frequent keywords in the article. It shows that some keywords appear multiple times, while most are mentioned only once.
 
-![Keyword Occurrences Distribution](images/wikipedia.png)
+![Keyword Occurrences Distribution](../data_analysis/images/wikipedia.png)
 
 
 ---
